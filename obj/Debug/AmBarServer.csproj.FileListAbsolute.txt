@@ -1,0 +1,7 @@
+C:\Users\Bruce\source\repos\ABServer\AmBarServer\AmBarServer\bin\Debug\AmBarServer.exe.config
+C:\Users\Bruce\source\repos\ABServer\AmBarServer\AmBarServer\bin\Debug\AmBarServer.exe
+C:\Users\Bruce\source\repos\ABServer\AmBarServer\AmBarServer\bin\Debug\AmBarServer.pdb
+C:\Users\Bruce\source\repos\ABServer\AmBarServer\AmBarServer\obj\Debug\AmBarServer.csprojResolveAssemblyReference.cache
+C:\Users\Bruce\source\repos\ABServer\AmBarServer\AmBarServer\obj\Debug\AmBarServer.csproj.CoreCompileInputs.cache
+C:\Users\Bruce\source\repos\ABServer\AmBarServer\AmBarServer\obj\Debug\AmBarServer.exe
+C:\Users\Bruce\source\repos\ABServer\AmBarServer\AmBarServer\obj\Debug\AmBarServer.pdb
